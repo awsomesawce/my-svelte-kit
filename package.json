@@ -13,7 +13,7 @@
   "devDependencies": {
     "@sveltejs/kit": "next",
     "@types/cookie": "^0.4.0",
-    "grunt": "^1.4.1",
+    "grunt": "^1.5.2",
     "prettier": "~2.2.1",
     "prettier-plugin-svelte": "^2.2.0",
     "svelte": "^3.34.0",
